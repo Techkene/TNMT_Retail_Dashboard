@@ -1,5 +1,5 @@
 
-# Capstone Project - TNMT Retail Sales Dashboard
+# TNMT Retail Sales Dashboard
 
 ## Overview
 This Power BI dashboard was developed as part of the Capstone Project for TNMT Retail. The goal was to analyze sales data and provide actionable insights through interactive reports and visualizations.
@@ -28,9 +28,8 @@ The dashboard includes the following features:
 ## Dashboard Preview
 Below is a preview of the Power BI dashboard:
 
-![Dashboard Screenshot](dashboard.jpg)
+![Dashboard Screenshot](dashboard.JPG)
 
-_(Replace `dashboard_screenshot.png` with the actual image file of your dashboard)_
 
 ## How to Use the Dashboard
 1. Open the Power BI file (.pbix) or access the online version (if applicable).
