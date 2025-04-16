@@ -1,3 +1,4 @@
+
 # Capstone Project - TNMT Retail Sales Dashboard
 
 ## Overview
@@ -27,7 +28,7 @@ The dashboard includes the following features:
 ## Dashboard Preview
 Below is a preview of the Power BI dashboard:
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 _(Replace `dashboard_screenshot.png` with the actual image file of your dashboard)_
 
@@ -43,5 +44,4 @@ _(Replace `dashboard_screenshot.png` with the actual image file of your dashboar
 ## Conclusion
 This dashboard provides valuable insights for TNMT Retail, helping stakeholders make data-driven decisions regarding product performance, sales team effectiveness, and regional revenue distribution. By leveraging interactive filtering, users can explore key trends and optimize business strategies.
 
----
-Feel free to modify or add any additional details specific to your implementation!
+
